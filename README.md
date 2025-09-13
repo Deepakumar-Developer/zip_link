@@ -1,6 +1,6 @@
 # 🚀 ZipLink - URL Shortening Mobile Application
 
-![ZipLink Logo](./assets/logo.png)
+![ZipLink Logo](./assets/images/appLogo.png)
 
 **ZipLink** is a URL-shortening mobile application that provides a clean, intuitive, and efficient way for users to convert long, cumbersome URLs into short, shareable links.
 
